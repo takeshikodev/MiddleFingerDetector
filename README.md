@@ -1,8 +1,5 @@
 # MiddleFingerDetector
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/takeshikodev/MiddleFingerDetector)
-![Downloads](https://img.shields.io/github/downloads/takeshikodev/MiddleFingerDetector/total)
-
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
